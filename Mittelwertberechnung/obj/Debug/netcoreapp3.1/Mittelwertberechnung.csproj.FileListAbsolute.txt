@@ -1,0 +1,13 @@
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\bin\Debug\netcoreapp3.1\Mittelwertberechnung.exe
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\bin\Debug\netcoreapp3.1\Mittelwertberechnung.deps.json
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\bin\Debug\netcoreapp3.1\Mittelwertberechnung.runtimeconfig.json
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\bin\Debug\netcoreapp3.1\Mittelwertberechnung.runtimeconfig.dev.json
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\bin\Debug\netcoreapp3.1\Mittelwertberechnung.dll
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\bin\Debug\netcoreapp3.1\Mittelwertberechnung.pdb
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\netcoreapp3.1\Mittelwertberechnung.csprojAssemblyReference.cache
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\netcoreapp3.1\Mittelwertberechnung.csproj.CoreCompileInputs.cache
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\netcoreapp3.1\Mittelwertberechnung.AssemblyInfoInputs.cache
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\netcoreapp3.1\Mittelwertberechnung.AssemblyInfo.cs
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\netcoreapp3.1\Mittelwertberechnung.dll
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\netcoreapp3.1\Mittelwertberechnung.pdb
+C:\Users\nils\source\repos\Mittelwertberechnung\Mittelwertberechnung\obj\Debug\netcoreapp3.1\Mittelwertberechnung.genruntimeconfig.cache
